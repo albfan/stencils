@@ -699,7 +699,7 @@
     </Shortcut>
     <Shortcut xmlns="http://www.evolus.vn/Namespace/Pencil" to="_baseWidget" displayName="Frame" icon="icons/frame.png">
         <PropertyValue name="box">250,150</PropertyValue>
-        <PropertyValue name="imageData">256,142,61-151,31-100,collection://bitmaps/frame.png</PropertyValue>
+        <PropertyValue name="imageData">256,142,3-253,3-139,collection://bitmaps/frame.png</PropertyValue>
         <PropertyValue name="extraSnappingLeft">L15,L1</PropertyValue>
         <PropertyValue name="extraSnappingTop">T15,T1</PropertyValue>
         <PropertyValue name="extraSnappingRight">R15,R1</PropertyValue>
