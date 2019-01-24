@@ -6,7 +6,7 @@
         id="Evolus.UI.Gnome3"
         displayName="Gnome 3 Widgets"
         description="Elements for building Gnome 3 application mockups"
-        version="1.0"
+        version="1.1"
         author="Duong Thanh An">
     <Fonts>
         <Font name="Cantarell"
